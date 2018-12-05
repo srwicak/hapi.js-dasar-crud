@@ -1,4 +1,4 @@
-# hapi.js-dasar-crud
+# hapi.js-mongoose-dasar-crud
 Dasar CRUD dengan node.js dengan framework Hapi.js 17.8.1 dan mongoose 5.3.14
 
 ## Cara penggunaan
