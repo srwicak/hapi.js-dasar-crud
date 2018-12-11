@@ -4,7 +4,8 @@
   "description": "Aplikasi buku kontak untuk dasar operasi CRUD",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Sandy Rachmat Wicaksono",
   "license": "ISC",
